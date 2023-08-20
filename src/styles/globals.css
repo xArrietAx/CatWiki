@@ -13,6 +13,13 @@
     gap: 1em;
 }
 
+.cat{
+	background-image: url("../../public/cat.avif");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
 .search::-webkit-scrollbar-track
 {
 	-webkit-box-shadow: inset 0 0 6px rgb(197, 197, 197);
