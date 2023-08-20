@@ -7,6 +7,10 @@ const nextConfig = {
         protocol: 'https',
         hostname: 'cdn2.thecatapi.com',
       },
+      {
+        protocol:'https',
+        hostname:'unsplash.com'
+      }
     ],
   }
 }
